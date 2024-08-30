@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a PhD candidate at the University of Southern Queensland, focusing on a spectroscopic studies of $\delta$ Scuti stars. But I'm really into all things spectroscopy.
+I'm a PhD candidate at the University of Southern Queensland, focusing on a spectroscopic studies of $\delta$ Scuti stars.
+But I'm really into all things spectroscopy.
